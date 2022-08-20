@@ -1,0 +1,31 @@
+{
+  "type": "module",
+  "name": "fitbit_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_fitbit_data.js",
+  "dependencies": {
+    "amdefine": "^1.0.1",
+    "async": "^0.2.10",
+    "data-uri-to-buffer": "^4.0.0",
+    "express": "^4.18.1",
+    "fetch-blob": "^3.2.0",
+    "formdata-polyfill": "^4.0.10",
+    "joi": "^17.6.0",
+    "mime-db": "^1.52.0",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.2.10",
+    "optimist": "^0.3.7",
+    "require": "^2.4.20",
+    "source-map": "^0.1.43",
+    "std": "^0.1.40",
+    "uglify-js": "^2.3.0",
+    "web-streams-polyfill": "^3.2.1",
+    "wordwrap": "^0.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
